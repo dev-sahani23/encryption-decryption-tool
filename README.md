@@ -46,3 +46,7 @@ This tool scrambles your text based on a password and lets you securely encrypt 
 ```bash
 python Encryption_Decryption.py
 ```
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) © 2025 Dev.  
+Feel free to use, modify, and distribute it for personal or commercial use.
