@@ -1,8 +1,11 @@
 # 🔐 Encryption & Decryption Tool (Python + Tkinter GUI)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/encryption-decryption-tool)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/encryption-decryption-tool)
-![GitHub license](https://img.shields.io/github/license/your-username/encryption-decryption-tool)
+![GitHub repo size](https://img.shields.io/github/repo-size/dev-sahani23/encryption-decryption-tool)
+![GitHub last commit](https://img.shields.io/github/last-commit/dev-sahani23/encryption-decryption-tool)
+![GitHub license](https://img.shields.io/github/license/dev-sahani23/encryption-decryption-tool)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
 
 A simple and fun encryption/decryption app built using Python and Tkinter.  
 This tool scrambles your text based on a password and lets you securely encrypt or decrypt messages with ease.
@@ -24,8 +27,6 @@ This tool scrambles your text based on a password and lets you securely encrypt 
 > ## 🖼️ App Preview
 
 ![Screenshot of App](screenshot.png)
-
-> You can take a screenshot of the GUI running and upload it in the repo.
 
 ---
 
