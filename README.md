@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
+
 # 🔐 Encryption & Decryption Tool (Python + Tkinter GUI)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dev-sahani23/encryption-decryption-tool)
